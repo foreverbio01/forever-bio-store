@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foreverbio01.github.io/forever-bio-store/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
